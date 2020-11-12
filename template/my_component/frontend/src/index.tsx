@@ -1,10 +1,10 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import MyComponent from "./MyComponent"
+import DispatcherComponent from "./DispatcherComponent"
 
 ReactDOM.render(
   <React.StrictMode>
-    <MyComponent />
+    <DispatcherComponent />
   </React.StrictMode>,
   document.getElementById("root")
 )

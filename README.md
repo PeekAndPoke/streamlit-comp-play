@@ -58,7 +58,7 @@ $ streamlit run my_component/__init__.py  # run the example
 ```
 * If all goes well, you should see something like this:
 ![Quickstart Success](quickstart.png)
-* Modify the frontend code at `my_component/frontend/src/MyComponent.tsx`.
+* Modify the frontend code at `my_component/frontend/src/DispatcherComponent.tsx`.
 * Modify the Python code at `my_component/__init__.py`.
 
 ## Examples
